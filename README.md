@@ -2,7 +2,7 @@
 
 - Please make sure you have finished installing the application at https://sourceforge.net/projects/domination/
 
-- I'm new to GitHub, so these files may be corrupted, for all I know, but if they're not... I hope you have fun~
+- I'm new to GitHub, so these files may be corrupted as all heck for all I know, but if they're not... I hope you have fun~
 
 - To start playing on my maps, select the Domination icon, then hit New Game. You should then be able to choose the map, cards, card bonus settings, among other things.
 
